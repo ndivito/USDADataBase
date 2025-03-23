@@ -1,0 +1,5 @@
+2025-03-15 20:59:11,778 - ERROR - Error importing FoodData_Central_csv_cleaned\foundation_food.csv into foundation_food: FOREIGN KEY constraint failed
+2025-03-15 20:59:11,823 - ERROR - Error importing FoodData_Central_csv_cleaned\input_food.csv into input_food: NOT NULL constraint failed: input_food.fdc_id_of_input_food
+2025-03-15 20:59:12,789 - ERROR - Error importing FoodData_Central_csv_cleaned\survey_fndds_food.csv into survey_fndds_food: FOREIGN KEY constraint failed
+2025-03-15 23:26:29,967 - ERROR - Error importing FoodData_Central_csv_cleaned\foundation_food.csv into foundation_food: FOREIGN KEY constraint failed
+2025-03-15 23:26:37,031 - ERROR - Error importing FoodData_Central_csv_cleaned\survey_fndds_food.csv into survey_fndds_food: FOREIGN KEY constraint failed

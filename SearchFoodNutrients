@@ -1,0 +1,4 @@
+Select distinct fn.nutrient_id, fn.amount, n.unit_name , n.name, f.fdc_id from food_nutrient as fn
+JOIN food as f on f.fdc_id = fn.fdc_id
+LEFT JOIN nutrient as n on n.id = fn.nutrient_id
+WHERE f.fdc_id = 355261
