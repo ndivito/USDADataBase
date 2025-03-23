@@ -39,7 +39,7 @@ Update these variables to match the location of your extracted USDA data.
 
 Once created, the SQLite database can be explored using your tool of choice (e.g., DB Browser for SQLite, SQLiteStudio, or programmatically in Python).
 
-Additionally, this repo includes a pre-written `.sql` file containing a query to create a **view for percent leanness**, simplifying common nutritional queries.
+Additionally, this repo includes a pre-written `.sql` file called **CreatePercentProteinView.sql** containing a query to create a **view for percent leanness**, simplifying common nutritional queries.
 
 ---
 
